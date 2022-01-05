@@ -57,6 +57,8 @@ Hello Markdown
 
 ![GitHub](https://www.pngrepo.com/png/314036/180/github-square.png)
 
+![顯示資料夾底下的圖片](https://github.com/kekeli92870/kekeli-notes-stores/blob/main/Markdown/github-pngrepo-com.png)
+
 10.單行程式碼
 
 `console.log("Hello Markdown");`
